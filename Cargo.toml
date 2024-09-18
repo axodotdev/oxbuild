@@ -1,10 +1,10 @@
 [package]
 name         = "oxbuild"
-version      = "0.1.1-prerelease.0"
+version      = "0.1.1-prerelease.1"
 description  = "Ultra-fast typescript compiler"
 authors      = ["Don Isaac <don@donisaac.dev>"]
 license      = "MIT"
-repository   = "https://github.com/DonIsaac/oxbuild"
+repository   = "https://github.com/axodotdev/oxbuild"
 homepage     = "https://github.com/DonIsaac/oxbuild"
 keywords     = ["typescript", "javascript", "compiler", "oxc", "oxbuild"]
 categories   = ["development-tools", "web-programming", "compilers"]
